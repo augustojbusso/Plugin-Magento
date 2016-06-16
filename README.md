@@ -1,3 +1,25 @@
+Fork "abierto" de TodoPago para Magento
+============
+
+Mantengo este fork dado que el repositorio oficial no acepta Pull Requests de la comunidad.
+En cuanto esa situación se remedie abandonaré el mantenimiento del mismo.
+
+## Disclaimer
+Este módulo no es de mi autoría y, por lo tanto, no me responsabilizo en ninguna medida por su funcionamiento o por cualquier incidente que su uso pudiera ocasionar sobre los sistemas en los que fuera instalado.
+No soy empleado, asociado ni estoy en ninguna otra manera relacionado con TodoPago, Prisma, Visa o cualquier otra empresa o entidad financiera que pudiera relacionarse con las marcas y servicios que puedan asociarse al uso de este módulo tanto individualmente como en nombre de toda sociedad de la que yo forme parte.
+
+## Contribuciones incorporadas
+
+Antes de considerar el uso de este fork por sobre el desarrollo oficial se recomienda un análisis profundo de las modificaciones existentes en el mismo.
+
+A continuación un listado de todas las modificaciones que fueron incorporadas para su consideración. Esta lista podría no estar completamente sincronizada con todas las contribuciones que fueran aceptadas aunque prometo hacer mi mayor esfuerzo para intentar mantenerla lo más al día posible.
+
+- Incorporación de composer.json y modman para manejo de dependencias - [barbazul](https://github.com/barbazul)
+ - [6a6a972](https://github.com/barbazul/Plugin-Magento/commit/6a6a972dc9720dc5e932376fecada215cd6ca9b1)
+- Agregado el nombre del producto en la descripción que se envía al gateway- [dsueiro](https://github.com/dsueiro)
+ - [9dd6b5f](https://github.com/barbazul/Plugin-Magento/commit/9dd6b5fa91cca74aea01aed78ad4d57defd963e6)
+
+
 <a name="inicio"></a>
 Magento- módulo Todo Pago (v1.7.x a 1.9.x)
 ============
